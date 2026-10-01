@@ -1,0 +1,10 @@
+{
+  "labels": ["Red", "Blue", "Yellow"],
+  "datasets": [
+    {
+      "data": [300, 50, 100],
+      "backgroundColor": ["#f44336", "#2196f3", "#ffeb3b"],
+      "borderWidth": 0
+    }
+  ]
+}
