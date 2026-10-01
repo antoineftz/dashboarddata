@@ -1,5 +1,5 @@
 {
-  "labels": ["Red", "Blue", "Yellow"],
+ 
   "datasets": [
     {
       "data": [300, 50, 100],
