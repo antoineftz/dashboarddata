@@ -2,8 +2,8 @@
  
   "datasets": [
     {
-      "data": [300, 50, 100],
-      "backgroundColor": ["#f44336", "#2196f3", "#ffeb3b"],
+      "data": [26.85, 21.32, 18.46, 14.85, 9.84, 5.06],
+      "backgroundColor": ["#0565af", "#33b2f2", "#5529a2", "8098b0", "fd7d7d", "6cc686", "00a4b6"],
       "borderWidth": 0
     }
   ]
