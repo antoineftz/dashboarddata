@@ -1,0 +1,17 @@
+{
+  "datasets": [
+    {
+      "data": [32.97, 21.10, 18.46, 14.07, 13.41],
+      "backgroundColor": ["#0565af", "#33b2f2", "#5529a2", "#8098b0", "#fd7d7d"],
+      "borderWidth": 0
+    }
+  ],
+  "labels": [
+    "Feature limitations 32.97%",
+    "Budget constraints 21.10%",
+    "Price too high 18.46%",
+    "Better alter... 14.07%",
+    "Lack of urgency 13.41%",
+   
+  ]
+}
