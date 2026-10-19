@@ -2,7 +2,7 @@
   "labels": ["Dereve", "Khan", "Muller", "Johnson", "Chen", "Rossi", "Kim"],
   "datasets": [
     {
-      "label": "Score",
+      "label": "Sales",
       "data": [8, 10, 6, 8, 9, 4, 6],
       "backgroundColor": [
         "rgba(0, 103, 182, 1)",
